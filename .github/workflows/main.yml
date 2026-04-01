@@ -14,9 +14,11 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Gerar o arquivo SVG da cobrinha
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
+          # Troque "NOME_DA_SUA_OUTRA_CONTA" pelo username correto do GitHub
           github_user_name: LiroDimo
           outputs: |
             dist/github-contribution-grid-snake.svg

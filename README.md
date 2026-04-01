@@ -33,6 +33,8 @@ A maioria das coisas aqui são apenas insanidades que surgiram na minha cabeça 
   <img width="8" />
 </div>
 
+<br><br><br><br>
+
 #
 
 <picture>

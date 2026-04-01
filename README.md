@@ -18,7 +18,7 @@ A maioria das coisas aqui são apenas insanidades que surgiram na minha cabeça 
 
 #
 
-<img align="right" alt="" height="190px" src="./src/gato.gif">
+<img align="right" alt="" height="190px" src="./src/dança.gif">
 
 <h3 align="left">Linguagens</h3>
 

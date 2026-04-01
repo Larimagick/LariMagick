@@ -19,7 +19,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           # Troque "NOME_DA_SUA_OUTRA_CONTA" pelo username correto do GitHub
-          github_user_name: LiroDimo
+          github_user_name: Liro Dimo
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark

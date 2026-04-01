@@ -4,6 +4,8 @@
   </a>
 </div>
 
+<img align="center" alt="" src="./src/banner.gif">
+
 **Coding for fun 💻✨** Isso significa que a maioria dos projetos aqui são apenas insanidades que surgiram na minha cabeça às 2 da manhã.
 
 * 🔭 **Atualmente brincando com:** [Aprendendo a fazer sites.]

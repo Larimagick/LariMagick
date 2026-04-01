@@ -6,11 +6,27 @@
 
 <img align="center" alt="" src="./src/banner.gif">
 
-**Coding for fun 💻✨** Isso significa que a maioria dos projetos aqui são apenas insanidades que surgiram na minha cabeça às 2 da manhã.
+A maioria das coisas aqui são apenas insanidades que surgiram na minha cabeça às 2 da manhã.
 
 * 🔭 **Atualmente brincando com:** [Aprendendo a fazer sites.]
 * 🌱 **Tentando entender:** [TS e C#.]
 * ⚡ **Fato divertido:** [Meu Curso real esta a KM/Luz de Progamação.]
+
+<img align="right" alt="" height="190px" src="./src/gato.gif">
+
+<h3 align="left">My Stack</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="27" alt="csharp logo"  />
+  <img width="8" />
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LariMagick/LariMagick/output/github-contribution-grid-snake-dark.svg">

@@ -4,7 +4,11 @@
   </a>
 </div>
 
+# 
+
 <img align="center" alt="" src="./src/banner.gif">
+
+#
 
 A maioria das coisas aqui são apenas insanidades que surgiram na minha cabeça às 2 da manhã.
 
@@ -12,9 +16,11 @@ A maioria das coisas aqui são apenas insanidades que surgiram na minha cabeça 
 * 🌱 **Tentando entender:** [TS e C#.]
 * ⚡ **Fato divertido:** [Meu Curso real esta a KM/Luz de Progamação.]
 
+#
+
 <img align="right" alt="" height="190px" src="./src/gato.gif">
 
-<h3 align="left">My Stack</h3>
+<h3 align="left">Linguagens</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
@@ -27,6 +33,7 @@ A maioria das coisas aqui são apenas insanidades que surgiram na minha cabeça 
   <img width="8" />
 </div>
 
+#
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LariMagick/LariMagick/output/github-contribution-grid-snake-dark.svg">
